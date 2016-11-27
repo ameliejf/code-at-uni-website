@@ -1,0 +1,13 @@
+<!DOCTYPE css>
+
+body {margin-right: 20px;
+margin-left: auto;}
+
+.jumbotron {
+	background: url('http://cdn.wallpapersafari.com/9/1/YKa4Hg.jpg') no-repeat center;
+color:lightyellow;
+position: relative;
+background-size : cover;}
+
+.noun {font-style: oblique}
+
