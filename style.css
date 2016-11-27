@@ -1,7 +1,8 @@
 <!DOCTYPE css>
 
 body {margin-right: 20px;
-margin-left: auto;}
+margin-left: auto;
+background-color: #FBFAE5;}
 
 .jumbotron {
 	background: url('http://cdn.wallpapersafari.com/9/1/YKa4Hg.jpg') no-repeat center;
@@ -10,4 +11,71 @@ position: relative;
 background-size : cover;}
 
 .noun {font-style: oblique}
+
+
+
+.crop {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.crop img {
+    width: 200px;
+    height: 300px;
+    margin: -70px -20px -50px -20px;
+}
+
+.panel-default{ 
+	margin: 50px 50px 50px;
+
+}
+
+
+.panel-default > .panel-heading {
+  color: #FAFAE6;
+  background-color: #2B5A38;
+  border-color: #455587;
+  height:40px;
+  text-align: left;
+  font-weight: 150;
+  font-size: 60px;
+  font-family: 'Shrikhand', cursive;
+}
+
+.panel-default >.panel-body {
+	background-color: #E5EAE6;
+
+}
+
+.btn {
+	background-color: #085D1B;
+	color:lightyellow;
+	border-color: #06300F;
+}
+
+.quotation {font-style: oblique;
+font-size: 12px;}
+
+.tipname {font-size: 20px;
+font-weight: lighter;
+font-family: 'Shrikhand', cursive;
+}
+
+.tipbody {font-size:  15px;
+}
+
+.coffee {margin:40px;}
+
+.getready {
+	font-size: 25px;
+	font-family: 'Bungee Inline', cursive;
+margin: 20px;}
+
+.lake {margin: 0 30px 0 20px;
+text-align: justify;}
+
+.citymapper {margin-left: 50px}
+
+.spotify {margin-left: 40px}
 
